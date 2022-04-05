@@ -20,7 +20,7 @@ class ConsultationService {
    * TODO : Récupérer toutes les recettes de la collection
    * @returns les consultation de la collection
    */
-    async getAllConsultations() {return await this.collection.find({}).sort({id: 1}).toArray();};
+    async getAllConsultations() {return defaultConsultations.consultations};
 
 
     /**

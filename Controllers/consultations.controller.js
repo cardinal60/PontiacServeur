@@ -52,7 +52,7 @@ class ConsultationController {
       }
     });
 
-    this.router.use(checkJwt);
+    //this.router.use(checkJwt);
 
     /**
      * Ajouter la nouvelle recette dans la BD

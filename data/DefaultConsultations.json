@@ -6,16 +6,18 @@
             "name": "Sustainable Agriculture",
             "description": "Agriculture in 2040 will be more capital intensive and high-tech, more ecological, and local. Across various agricultural sectors, what are Pontiac’s comparative advantages and primary opportunities for growth?",
             "icon": "../../images/Picto/PictoAgriculture.png",
-            "url":"https://pontiacvertprospere.cocoriko.org/groups/agriculture-durables?setLng=en-CA",
-            "button": "participate!"
+            "url":"https://outaouaisvert.cocoriko.org/multitheme/agriculture-durable-fc30dd380a67?setLng=en-CA",
+            "button": "participate!",
+            "link": "/consultation/durableAgriculture"
         },
             
         "FR": {
             "name": "Agriculture durable",
             "description": "L'agriculture de l’avenir sera haute en capital et technologies, et sera davantage écologique et locale. Dans divers secteurs agricoles, quels sont les avantages comparatifs et les principales opportunités de croissance du Pontiac ?",
             "icon": "../../images/Picto/PictoAgriculture.png",
-            "url":"https://pontiacvertprospere.cocoriko.org/groups/agriculture-durables?setLng=fr-CA",
-            "button": "participez!"
+            "url":"https://outaouaisvert.cocoriko.org/multitheme/agriculture-durable-fc30dd380a67?setLng=fr-CA",
+            "button": "participez!",
+            "link": "/consultation/durableAgriculture"
             
         }
     },
@@ -25,6 +27,7 @@
             "id": 2,
             "EN":{
                 "name": "Sustainable Management of the Forest",
+                "link": "",
                 "description": "Lumber once powered Pontiac’s economy, but the forestry industry in 2040 will be different (more capital intensive, more ecological and will create high-skilled jobs in terms of sustainable management). How can we preserve current jobs, align the forestry industry with emerging trends and train our youth to secure well-paying jobs in the future.",
                 "icon": "../../images/Picto/PictoForet.png",
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/gestion-durable-de-la-foret?setLng=en-CA",
@@ -41,6 +44,7 @@
             "id": 3,
             "EN":{
                 "name": "Protection of Nature ",
+                "link": "",
                 "button": "To come!",
                 "description": "Nature provides recreational opportunities and  environmental services that sustain us. How can we better protect watersheds that transcend municipal jurisdictions, protect biodiversity and manage the natural spaces , such as the Gatineau Park, to achieve a better balance between human needs and long-term sustainability?",
                 "icon": "../../images/Picto/PictoProtectionNature.png",
@@ -49,6 +53,7 @@
             "FR": 
             {
                 "name": "Protection de la nature",
+                "link": "",
                 "button": "À venir!",
                 "description": "La nature offre des possibilités de loisirs et fournit des services environnementaux qui nous soutiennent. Comment mieux protéger les bassins versants qui transcendent les juridictions, protéger la biodiversité des régions et gérer les biens communs, comme le parc de Gatineau, pour atteindre un meilleur équilibre entre les besoins humains et la durabilité à long terme ?",
                 "icon": "../../images/Picto/PictoProtectionNature.png",
@@ -59,6 +64,7 @@
             "id": 4,
             "EN":{
                 "name": "Green Energy",
+                "link": "",
                 "button": "To come!",
                 "description": "The transition away from fossil fuels is in its early stages.  In order to seize the opportunity provided by disruptive technologies (i.e. technologies that create a new market and eventually displaces established technologies), Pontiac needs a long-term strategy to put into place the foundations for a green economy and greener source of energy that will enable local entrepreneurs to be successful. What financing programs are available to help rural communities decarbonize? How can various levels of government collaborate and synergize their investments for maximal impact? ",
                 "icon": "../../images/Picto/PictoEnergieVerte.png",
@@ -74,12 +80,14 @@
             "id": 5,
             "EN":{
                 "name": "Green Transportation: Public and Active",
+                "link": "",
                 "button": "To come!",
                 "description": "For Pontiac’s rural communities, a transportation deficit contributes to a labour shortage, an exodus of young students and workers and impedes the delivery of public services. How can Pontiac’s communities prepare for the imminent disruption of the transportation sector and make strategic investments to profit from a revolution in personal mobility and automated delivery? ",
                 "icon": "../../images/Picto/Pictotransport.png",
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/transport-vert-collectif-et-actif?setLng=en-CA"},
             "FR": {
                 "name": "Transport vert, collectif et actif",
+                "link": "",
                 "button": "À venir!",
                 "description": "Pour les communautés rurales du Pontiac, un déficit de transport contribue à une pénurie de main-d'œuvre, à un exode de jeunes travailleurs et entrave la prestation des services publics. Comment nos communautés peuvent-elles se préparer au bouleversement imminent du secteur des transports et réaliser des investissements stratégiques pour profiter d'une révolution dans la mobilité personnelle et la livraison automatisée ?",
                 "icon": "../../images/Picto/Pictotransport.png",
@@ -89,6 +97,7 @@
             "id": 6,
             "EN":{
                 "name": "Sustainable Financing",
+                "link": "",
                 "button": "To come!",
                 "description": "More than 450 banks, including Canada's big five chartered banks, have signed an agreement that will signal to their customers, shareholders and investors that they are making green investments a priority. The initiatives include climate-related reporting of their investments and transparency about climate-related financial risks. How would this impact the financing of our entrepreneurs? ",
                 "icon": "../../images/Picto/PictoFinancement.png",
@@ -104,6 +113,7 @@
             "id": 7,
             "EN":{
                 "name": "Climate Change Emergency Preparedness",
+                "link": "",
                 "button": "To come!",
                 "description": "Climate change will continue to intensify extreme weather events. What can local communities do to mitigate the risk and disruption of extreme weather events and make infrastructure more resilient? Also, how can our region pool its resources to promote a more rapid and efficient emergency response?",
                 "icon": "../../images/Picto/PictoUrgenceClimatique.png",
@@ -119,6 +129,7 @@
             "id": 8,
             "EN":{
                 "name": "Waste Management",
+                "link": "",
                 "button": "To come!",
                 "description": "Our throw-away society creates waste that leaches contaminants into our soil, air and water. What innovative programs exist across the world in terms of waste management, and how can our communities collaborate to recycle resources, refurbish appliances and transform waste into useful products?",
                 "icon": "../../images/Picto/PictoDechet.png",
@@ -134,6 +145,7 @@
             "id": 9,
             "EN":{
                 "name": "First Nation Initiatives",
+                "link": "",
                 "button": "To come!",
                 "description": "Transition towards a green economy provides an opportunity to not only make our communities more vibrant, but also to address historic injustices. How can new technologies and federal net-zero investments help to mitigate current challenges inside indigenous communities and promote greater resiliency and autonomy? How could we support indigenous communities to build capacity to establish more indigenous protected and conservation areas.",
                 "icon": "../../images/Picto/PictoAutoctones.png",
@@ -149,12 +161,14 @@
             "id": 10,
             "EN":{
                 "name": "Health and Environment",
+                "link": "",
                 "button": "To come!",
                 "description": "Healthy communities have vibrant centres that feature common spaces, parks and green areas that can be reached through walking or public transportation. How can the Smart City concepts be applied to the urban, semi-rural and rural communities of Pontiac to promote better health, nutrition and emotional well-being?",
                 "icon": "../../images/Picto/PictoSante.png",
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/sante-et-environnement?setLng=en-CA"},
             "FR": {
                 "name": "Santé et environnement",
+                "link": "",
                 "button": "À venir!",
                 "description": "Les communautés saines ont des centres dynamiques qui comportent des espaces communs, des parcs et des espaces verts que vous atteignez à pied ou en transport en commun. Comment les concepts « Smart City » peuvent-ils être appliqués aux communautés périurbaines, périphériques et rurales de la région pour favoriser une meilleure santé, nutrition et bien-être émotionnel ?",
                 "icon": "../../images/Picto/PictoSante.png",
@@ -164,6 +178,7 @@
             "id": 11,
             "EN":{
                 "name": "Affordable Housing and Technologies",
+                "link": "",
                 "button": "To come!",
                 "description": "Across the region, the lack of affordable housing represents a multi-faceted challenge. What innovative solutions exist and how might they be implemented to fit the unique contours of the region’s diverse communities?",
                 "icon": "../../images/Picto/PictoLogementAbord.png",
@@ -179,6 +194,7 @@
             "id": 12,
             "EN":{
                 "name": "Truth and Reconciliation",
+                "link": "",
                 "button": "To come!",
                 "description": "Three hundred years ago the region was the exclusive domain of the Anishinabeg peoples. How can indigenous voices be incorporated in net-zero financing to ensure that their priorities are considered? How might green investments achieve reconciliation, prosperity and autonomy?",
                 "icon": "../../images/Picto/PictoVeriteConcil.png",
@@ -194,12 +210,14 @@
             "id": 13,
             "EN":{
                 "name": "Families and Seniors",
+                "link": "",
                 "button": "To come!",
                 "description": "Growth of Canada’s economy over the last two decades has not trickled down as it should have to working-class families, rural communities and seniors. How can we use the green transition to eliminate the barriers that marginalize vulnerable groups and prevent them from fully participating in our collective prosperity?",
                 "icon": "../../images/Picto/PictoAine.png",
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/families-and-seniors?setLng=en-CA"},
             "FR": {
                 "name": "La famille et les aînés",
+                "link": "",
                 "button": "À venir!",
                 "description": "La croissance de l'économie canadienne au cours des deux dernières décennies n'a pour la plupart pas profité autant aux familles de la classe ouvrière, aux collectivités rurales et aux personnes âgées. Comment pouvons-nous utiliser la transition verte pour éliminer les barrières qui marginalisent les groupes vulnérables et les empêchent de participer pleinement à notre prospérité collective ?",
                 "icon": "../../images/Picto/PictoAine.png",
@@ -209,12 +227,14 @@
             "id": 14,
             "EN":{
                 "name": "Culture and Society",
+                "link": "",
                 "button": "To come!",
                 "description": "Transition to the green economy provides a great opportunity to reimagine our communities. What strategic investments can municipalities make to not only make our economy more efficient and resilient, but promote community, social well-being and a more inclusive prosperity?",
                 "icon": "../../images/Picto/PictoSociete.png",
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/culture-et-societe"},
             "FR": {
                 "name": "Culture et société",
+                "link": "",
                 "button": "À venir!",
                 "description": "La transition vers l'économie verte offre une excellente occasion de réinventer nos collectivités. Quels investissements stratégiques les gouvernements peuvent-ils faire non seulement pour rendre notre économie plus efficace et résiliente, mais aussi pour promouvoir le bien-être communautaire et social et une prospérité plus inclusive ?",
                 "icon": "../../images/Picto/PictoSociete.png",
