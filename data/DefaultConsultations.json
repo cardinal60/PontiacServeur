@@ -21,10 +21,61 @@
             
         }
     },
+    
+    {
+            "id": 2,
+            "EN":{
+                "name": "PME and the transition towards a green and digital economy",
+                "link": "",
+                "button": "To come!",
+                "description": "",
+                "icon": "../../images/Picto/PictoVeriteConcil.png",
+                "url":"https://pontiacvertprospere.cocoriko.org/groups/verite-et-reconciliation?setLng=en-CA"},
+            "FR": {
+                "name": "PME et la transition vers une économie verte et numérique",
+                "button": "À venir!",
+                "description": "",
+                "icon": "../../images/Picto/PictoVeriteConcil.png",
+                "url":"https://pontiacvertprospere.cocoriko.org/groups/verite-et-reconciliation?setLng=fr-CA"}
+        },
+
+        {
+            "id": 3,
+            "EN":{
+                "name": "Durable Tourism",
+                "link": "",
+                "button": "To come!",
+                "description": "",
+                "icon": "../../images/Picto/PictoVeriteConcil.png",
+                "url":"https://pontiacvertprospere.cocoriko.org/groups/verite-et-reconciliation?setLng=en-CA"},
+            "FR": {
+                "name": "Tourisme Durable",
+                "button": "À venir!",
+                "description": "",
+                "icon": "../../images/Picto/PictoVeriteConcil.png",
+                "url":"https://pontiacvertprospere.cocoriko.org/groups/verite-et-reconciliation?setLng=fr-CA"}
+        },
+        {
+            "id": 4,
+            "EN":{
+                "name": "Green Transportation: Public and Active",
+                "link": "",
+                "button": "To come!",
+                "description": "For Pontiac’s rural communities, a transportation deficit contributes to a labour shortage, an exodus of young students and workers and impedes the delivery of public services. How can Pontiac’s communities prepare for the imminent disruption of the transportation sector and make strategic investments to profit from a revolution in personal mobility and automated delivery? ",
+                "icon": "../../images/Picto/Pictotransport.png",
+                "url":"https://pontiacvertprospere.cocoriko.org/groups/transport-vert-collectif-et-actif?setLng=en-CA"},
+            "FR": {
+                "name": "Transport vert, collectif et actif",
+                "link": "",
+                "button": "À venir!",
+                "description": "Pour les communautés rurales du Pontiac, un déficit de transport contribue à une pénurie de main-d'œuvre, à un exode de jeunes travailleurs et entrave la prestation des services publics. Comment nos communautés peuvent-elles se préparer au bouleversement imminent du secteur des transports et réaliser des investissements stratégiques pour profiter d'une révolution dans la mobilité personnelle et la livraison automatisée ?",
+                "icon": "../../images/Picto/Pictotransport.png",
+                "url":"https://pontiacvertprospere.cocoriko.org/groups/transport-vert-collectif-et-actif?setLng=fr-CA"}
+        },
 
         
         {
-            "id": 2,
+            "id": 5,
             "EN":{
                 "name": "Sustainable Management of the Forest",
                 "link": "",
@@ -41,7 +92,7 @@
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/gestion-durable-de-la-foret?setLng=fr-CA"}
     },
         {
-            "id": 3,
+            "id": 6,
             "EN":{
                 "name": "Protection of Nature ",
                 "link": "",
@@ -61,7 +112,7 @@
             }
         },
         {
-            "id": 4,
+            "id": 7,
             "EN":{
                 "name": "Green Energy",
                 "link": "",
@@ -76,25 +127,9 @@
                 "icon": "../../images/Picto/PictoEnergieVerte.png",
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/energies-vertes?setLng=fr-CA"}
         },
+        
         {
-            "id": 5,
-            "EN":{
-                "name": "Green Transportation: Public and Active",
-                "link": "",
-                "button": "To come!",
-                "description": "For Pontiac’s rural communities, a transportation deficit contributes to a labour shortage, an exodus of young students and workers and impedes the delivery of public services. How can Pontiac’s communities prepare for the imminent disruption of the transportation sector and make strategic investments to profit from a revolution in personal mobility and automated delivery? ",
-                "icon": "../../images/Picto/Pictotransport.png",
-                "url":"https://pontiacvertprospere.cocoriko.org/groups/transport-vert-collectif-et-actif?setLng=en-CA"},
-            "FR": {
-                "name": "Transport vert, collectif et actif",
-                "link": "",
-                "button": "À venir!",
-                "description": "Pour les communautés rurales du Pontiac, un déficit de transport contribue à une pénurie de main-d'œuvre, à un exode de jeunes travailleurs et entrave la prestation des services publics. Comment nos communautés peuvent-elles se préparer au bouleversement imminent du secteur des transports et réaliser des investissements stratégiques pour profiter d'une révolution dans la mobilité personnelle et la livraison automatisée ?",
-                "icon": "../../images/Picto/Pictotransport.png",
-                "url":"https://pontiacvertprospere.cocoriko.org/groups/transport-vert-collectif-et-actif?setLng=fr-CA"}
-        },
-        {
-            "id": 6,
+            "id": 8,
             "EN":{
                 "name": "Sustainable Financing",
                 "link": "",
@@ -110,7 +145,7 @@
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/financement-durable?setLng=fr-CA"}
         },
         {
-            "id": 7,
+            "id": 9,
             "EN":{
                 "name": "Climate Change Emergency Preparedness",
                 "link": "",
@@ -125,38 +160,7 @@
                 "icon": "../../images/Picto/PictoUrgenceClimatique.png",
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/urgence-climatique?setLng=fr-CA"}
         },
-        {
-            "id": 8,
-            "EN":{
-                "name": "Waste Management",
-                "link": "",
-                "button": "To come!",
-                "description": "Our throw-away society creates waste that leaches contaminants into our soil, air and water. What innovative programs exist across the world in terms of waste management, and how can our communities collaborate to recycle resources, refurbish appliances and transform waste into useful products?",
-                "icon": "../../images/Picto/PictoDechet.png",
-                "url":"https://pontiacvertprospere.cocoriko.org/groups/gestion-des-dechets?setLng=en-CA"},
-            "FR": {
-                "name": "Gestion des déchets",
-                "button": "À venir!",
-                "description": "Notre société crée des déchets qui s'infiltrent dans notre sol, notre air et notre eau. Quels programmes innovants existent à travers le monde en matière de gestion des déchets, et comment nos communautés peuvent-elles collaborer pour recycler les ressources, remettre à neuf les appareils électroménagers et transformer les déchets en produits utiles ?",
-                "icon": "../../images/Picto/PictoDechet.png",
-                "url":"https://pontiacvertprospere.cocoriko.org/groups/gestion-des-dechets?setLng=fr-CA"}
-        },
-        {
-            "id": 9,
-            "EN":{
-                "name": "First Nation Initiatives",
-                "link": "",
-                "button": "To come!",
-                "description": "Transition towards a green economy provides an opportunity to not only make our communities more vibrant, but also to address historic injustices. How can new technologies and federal net-zero investments help to mitigate current challenges inside indigenous communities and promote greater resiliency and autonomy? How could we support indigenous communities to build capacity to establish more indigenous protected and conservation areas.",
-                "icon": "../../images/Picto/PictoAutoctones.png",
-                "url":"https://pontiacvertprospere.cocoriko.org/groups/initiatives-autochtones?setLng=en-CA"},
-            "FR": {
-                "name": "Initiatives autochtones",
-                "button": "À venir!",
-                "description": "La transition vers une économie verte offre une opportunité non seulement de rendre nos communautés plus dynamiques, mais aussi de remédier à des injustices historiques. Comment les nouvelles technologies et les investissements fédéraux nets zéro peuvent-ils aider à atténuer les défis actuels au sein des communautés autochtones et à promouvoir une plus grande résilience et une plus grande autonomie ? Comment appuyer les communautés autochtones pour renforcer la capacité d’établir davantage d’aires protégées et de conservation autochtones.",
-                "icon": "../../images/Picto/PictoAutoctones.png",
-                "url":"https://pontiacvertprospere.cocoriko.org/groups/initiatives-autochtones?setLng=fr-CA"}
-        },
+
         {
             "id": 10,
             "EN":{
@@ -190,41 +194,26 @@
                 "icon": "../../images/Picto/PictoLogementAbord.png",
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/logement-abordable-et-technologie?setLng=fr-CA"}
         },
+        
         {
             "id": 12,
             "EN":{
-                "name": "Truth and Reconciliation",
+                "name": "Inclusivity",
                 "link": "",
                 "button": "To come!",
-                "description": "Three hundred years ago the region was the exclusive domain of the Anishinabeg peoples. How can indigenous voices be incorporated in net-zero financing to ensure that their priorities are considered? How might green investments achieve reconciliation, prosperity and autonomy?",
-                "icon": "../../images/Picto/PictoVeriteConcil.png",
-                "url":"https://pontiacvertprospere.cocoriko.org/groups/verite-et-reconciliation?setLng=en-CA"},
-            "FR": {
-                "name": "Vérité et réconciliation",
-                "button": "À venir!",
-                "description": "Il y a trois cents ans, notre région était le domaine exclusif des peuples Anishinabeg. Comment les voix autochtones peuvent-elles être intégrées dans le financement net zéro pour s'assurer que leurs priorités sont prises en compte ? Comment les investissements verts pourraient-ils parvenir à la réconciliation, à la prospérité et à l’autonomie ?",
-                "icon": "../../images/Picto/PictoVeriteConcil.png",
-                "url":"https://pontiacvertprospere.cocoriko.org/groups/verite-et-reconciliation?setLng=fr-CA"}
-        },
-        {
-            "id": 13,
-            "EN":{
-                "name": "Families and Seniors",
-                "link": "",
-                "button": "To come!",
-                "description": "Growth of Canada’s economy over the last two decades has not trickled down as it should have to working-class families, rural communities and seniors. How can we use the green transition to eliminate the barriers that marginalize vulnerable groups and prevent them from fully participating in our collective prosperity?",
+                "description": "Growth of Canada’s economy over the last two decades has not trickled down as it should have to working-class families, rural communities, seniors, minority groups and the young. How can we use the green transition to eliminate the barriers that marginalize vulnerable groups and prevent them from fully participating in our collective prosperity?",
                 "icon": "../../images/Picto/PictoAine.png",
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/families-and-seniors?setLng=en-CA"},
             "FR": {
-                "name": "La famille et les aînés",
+                "name": "Inclusivité",
                 "link": "",
                 "button": "À venir!",
-                "description": "La croissance de l'économie canadienne au cours des deux dernières décennies n'a pour la plupart pas profité autant aux familles de la classe ouvrière, aux collectivités rurales et aux personnes âgées. Comment pouvons-nous utiliser la transition verte pour éliminer les barrières qui marginalisent les groupes vulnérables et les empêchent de participer pleinement à notre prospérité collective ?",
+                "description": "La croissance de l'économie canadienne au cours des deux dernières décennies n'a pour la plupart pas profité autant aux familles de la classe ouvrière, aux collectivités rurales, aux personnes âgées, aux groupes minoritaires et aux jeunes. Comment pouvons-nous utiliser la transition verte pour éliminer les barrières qui marginalisent les groupes vulnérables et les empêchent de participer pleinement à notre prospérité collective ?",
                 "icon": "../../images/Picto/PictoAine.png",
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/families-and-seniors?setLng=fr-CA"}
         },
         {
-            "id": 14,
+            "id": 13,
             "EN":{
                 "name": "Culture and Society",
                 "link": "",
