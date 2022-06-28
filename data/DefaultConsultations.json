@@ -35,7 +35,7 @@
                 "name": "Économie verte et circulaire",
                 "button": "participez!",
                 "description": "Nous devons nous préparer dès maintenant à la transition vers une économie verte et circulaire. Il est crucial d’innover et de diversifier l’économie de façon durable pour se tailler une place dans l’économie de demain. Quelles sont les pistes d’action pouvant permettre au gouvernement fédéral de favoriser la transition des entreprises vers une économie verte et carboneutre? Comment pouvons-nous davantage créer de partenariat pour mutualiser nos efforts et être vert et prospère en 2040-2050?",
-                "icon": "../../images/Picto/PictoVeriteConcil.png",
+                "icon": "../../images/Picto/PictoEconomieVerte.png",
                 "link": "/consultation/greenEconomy",
                 "url":"https://outaouaisvert.cocoriko.org/multitheme/economie-verte-et-circulaire-fc30dd380a67 "}
         },
@@ -43,17 +43,17 @@
             "id": 3,
             "EN":{
                 "name": "Numerical Economy and new Technologies",
-                "link": "/consultation/numericalEconomy",
+                "link": "/consultation/PictoEconomieNumerique.png",
                 "button": "participate!",
                 "description": "Small and medium-sized businesses that invest in digital technologies are more competitive (BDC study). Therefore, innovation is crucial to the future of tomorrow’s economy. How can governments strategically invest to support entrepreneurs in this digital transition? ",
-                "icon": "../../images/Picto/PictoVeriteConcil.png",
+                "icon": "../../images/Picto/PictoEconomieNumerique.png",
                 "url":"https://outaouaisvert.cocoriko.org/multitheme/economie-numerique-et-nouvelles-technologies-fc30dd380a67"},
             "FR": {
                 "name": "Économie numérique et nouvelles technologies",
-                "link": "/consultation/numericalEconomy",
+                "link": "/consultation/PictoEconomieNumerique.png",
                 "button": "participez!",
                 "description": "Les petites et moyennes entreprises qui investissent dans des technologies numériques sont plus concurrentielles (étude de BDC). Il est donc crucial d’innover pour se tailler une place dans l’économie de demain. Comment les gouvernements peuvent-ils investir stratégiquement pour supporter les entrepreneurs dans cette transition numérique?  ",
-                "icon": "../../images/Picto/PictoVeriteConcil.png",
+                "icon": "../../images/Picto/PictoEconomieNumerique.png",
                 "url":"https://outaouaisvert.cocoriko.org/multitheme/economie-numerique-et-nouvelles-technologies-fc30dd380a67?lng=fr-CA  "}
         },
 
