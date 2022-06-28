@@ -25,38 +25,56 @@
     {
             "id": 2,
             "EN":{
-                "name": "PME and the transition towards a green and digital economy",
-                "link": "",
-                "button": "To come!",
-                "description": "",
-                "icon": "../../images/Picto/PictoVeriteConcil.png",
-                "url":"https://pontiacvertprospere.cocoriko.org/groups/verite-et-reconciliation?setLng=en-CA"},
+                "name": "Green and Circular Economy",
+                "link": "/consultation/greenEconomy",
+                "button": "participate!",
+                "description": "We must prepare now for the transition towards a green and circular economy. It is essential to innovate and diversify our economy in a sustainable way in order to be relevant in tomorrow’s economy. What are the courses of action that could enable the federal government to support the transition of SMEs towards a green, carbon-neutral economy? How can we create more partnerships to mutualize our efforts and be green and prosperous in 2040-2050? ",
+                "icon": "../../images/Picto/PictoEconomieVerte.png",
+                "url":"https://outaouaisvert.cocoriko.org/multitheme/economie-verte-et-circulaire-fc30dd380a67?lng=en-CA"},
             "FR": {
-                "name": "PME et la transition vers une économie verte et numérique",
-                "button": "À venir!",
-                "description": "",
+                "name": "Économie verte et circulaire",
+                "button": "participez!",
+                "description": "Nous devons nous préparer dès maintenant à la transition vers une économie verte et circulaire. Il est crucial d’innover et de diversifier l’économie de façon durable pour se tailler une place dans l’économie de demain. Quelles sont les pistes d’action pouvant permettre au gouvernement fédéral de favoriser la transition des entreprises vers une économie verte et carboneutre? Comment pouvons-nous davantage créer de partenariat pour mutualiser nos efforts et être vert et prospère en 2040-2050?",
                 "icon": "../../images/Picto/PictoVeriteConcil.png",
-                "url":"https://pontiacvertprospere.cocoriko.org/groups/verite-et-reconciliation?setLng=fr-CA"}
+                "link": "/consultation/greenEconomy",
+                "url":"https://outaouaisvert.cocoriko.org/multitheme/economie-verte-et-circulaire-fc30dd380a67 "}
+        },
+        {
+            "id": 3,
+            "EN":{
+                "name": "Numerical Economy and new Technologies",
+                "link": "/consultation/numericalEconomy",
+                "button": "participate!",
+                "description": "Small and medium-sized businesses that invest in digital technologies are more competitive (BDC study). Therefore, innovation is crucial to the future of tomorrow’s economy. How can governments strategically invest to support entrepreneurs in this digital transition? ",
+                "icon": "../../images/Picto/PictoVeriteConcil.png",
+                "url":"https://outaouaisvert.cocoriko.org/multitheme/economie-numerique-et-nouvelles-technologies-fc30dd380a67"},
+            "FR": {
+                "name": "Économie numérique et nouvelles technologies",
+                "link": "/consultation/numericalEconomy",
+                "button": "participez!",
+                "description": "Les petites et moyennes entreprises qui investissent dans des technologies numériques sont plus concurrentielles (étude de BDC). Il est donc crucial d’innover pour se tailler une place dans l’économie de demain. Comment les gouvernements peuvent-ils investir stratégiquement pour supporter les entrepreneurs dans cette transition numérique?  ",
+                "icon": "../../images/Picto/PictoVeriteConcil.png",
+                "url":"https://outaouaisvert.cocoriko.org/multitheme/economie-numerique-et-nouvelles-technologies-fc30dd380a67?lng=fr-CA  "}
         },
 
         {
-            "id": 3,
+            "id": 4,
             "EN":{
                 "name": "Durable Tourism",
                 "link": "",
                 "button": "To come!",
-                "description": "",
+                "description": "The region, with its rivers, mountains, forests and historic towns, has great tourism potential. How can governments strategically invest to empower local entrepreneurs, create a denser network of attractions across municipalities and brand the region more effectively to attract more visitors, better distribute tourists across the riding and generate more revenue from their visits? How can we further develop agro-tourism and eco-tourism? ",
                 "icon": "../../images/Picto/PictoVeriteConcil.png",
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/verite-et-reconciliation?setLng=en-CA"},
             "FR": {
                 "name": "Tourisme Durable",
                 "button": "À venir!",
-                "description": "",
+                "description": "La région, avec ses rivières, ses montagnes, ses forêts et ses villes historiques, a un grand potentiel touristique. Comment les gouvernements peuvent-ils investir stratégiquement pour supporter les entrepreneurs locaux, créer un réseau plus dense d'attractions dans toutes municipalités et mieux valoriser la région pour attirer plus de visiteurs, mieux répartir les touristes dans la région et générer plus de revenus grâce à leurs visites ? Comment pouvons-nous développer davantage l’agro-tourisme et l’éco-tourisme ?",
                 "icon": "../../images/Picto/PictoVeriteConcil.png",
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/verite-et-reconciliation?setLng=fr-CA"}
         },
         {
-            "id": 4,
+            "id": 5,
             "EN":{
                 "name": "Green Transportation: Public and Active",
                 "link": "",
@@ -75,7 +93,7 @@
 
         
         {
-            "id": 5,
+            "id": 6,
             "EN":{
                 "name": "Sustainable Management of the Forest",
                 "link": "",
@@ -92,7 +110,7 @@
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/gestion-durable-de-la-foret?setLng=fr-CA"}
     },
         {
-            "id": 6,
+            "id": 7,
             "EN":{
                 "name": "Protection of Nature ",
                 "link": "",
@@ -112,7 +130,7 @@
             }
         },
         {
-            "id": 7,
+            "id": 8,
             "EN":{
                 "name": "Green Energy",
                 "link": "",
@@ -129,7 +147,7 @@
         },
         
         {
-            "id": 8,
+            "id": 9,
             "EN":{
                 "name": "Sustainable Financing",
                 "link": "",
@@ -145,7 +163,7 @@
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/financement-durable?setLng=fr-CA"}
         },
         {
-            "id": 9,
+            "id": 10,
             "EN":{
                 "name": "Climate Change Emergency Preparedness",
                 "link": "",
@@ -162,7 +180,7 @@
         },
 
         {
-            "id": 10,
+            "id": 11,
             "EN":{
                 "name": "Health and Environment",
                 "link": "",
@@ -179,7 +197,7 @@
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/sante-et-environnement?setLng=fr-CA"}
         },
         {
-            "id": 11,
+            "id": 12,
             "EN":{
                 "name": "Affordable Housing and Technologies",
                 "link": "",
@@ -196,7 +214,7 @@
         },
         
         {
-            "id": 12,
+            "id": 13,
             "EN":{
                 "name": "Inclusivity",
                 "link": "",
@@ -213,7 +231,7 @@
                 "url":"https://pontiacvertprospere.cocoriko.org/groups/families-and-seniors?setLng=fr-CA"}
         },
         {
-            "id": 13,
+            "id": 14,
             "EN":{
                 "name": "Culture and Society",
                 "link": "",
