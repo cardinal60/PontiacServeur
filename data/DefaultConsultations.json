@@ -43,14 +43,14 @@
             "id": 3,
             "EN":{
                 "name": "Numerical Economy and new Technologies",
-                "link": "/consultation/PictoEconomieNumerique.png",
+                "link": "/consultation/numericalEconomy",
                 "button": "participate!",
                 "description": "Small and medium-sized businesses that invest in digital technologies are more competitive (BDC study). Therefore, innovation is crucial to the future of tomorrow’s economy. How can governments strategically invest to support entrepreneurs in this digital transition? ",
                 "icon": "../../images/Picto/PictoEconomieNumerique.png",
                 "url":"https://outaouaisvert.cocoriko.org/multitheme/economie-numerique-et-nouvelles-technologies-fc30dd380a67"},
             "FR": {
                 "name": "Économie numérique et nouvelles technologies",
-                "link": "/consultation/PictoEconomieNumerique.png",
+                "link": "/consultation/numericalEconomy",
                 "button": "participez!",
                 "description": "Les petites et moyennes entreprises qui investissent dans des technologies numériques sont plus concurrentielles (étude de BDC). Il est donc crucial d’innover pour se tailler une place dans l’économie de demain. Comment les gouvernements peuvent-ils investir stratégiquement pour supporter les entrepreneurs dans cette transition numérique?  ",
                 "icon": "../../images/Picto/PictoEconomieNumerique.png",
